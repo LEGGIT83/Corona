@@ -1,0 +1,18 @@
+settings = {
+
+	orientation = {
+            default = "landscapeRight",
+			content = "landscapeRight",
+			supported = {
+				"landscapeRight"
+			},
+        },
+		
+	iphone = {
+		plist = {
+			UIAppFonts = {
+				"BorisBlackBloxx.ttf"
+			}
+		},
+	},
+}
